@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: 'poppins', sans-serif;
 }
+
 .header{
     min-height: 100vh;
     width: 100%;
@@ -19,7 +20,7 @@ nav{
 
 }
 .logo{
-    width: 140px;
+    width: 200px;
     cursor: pointer;
     background: none;
 }
@@ -147,6 +148,12 @@ nav{
     border-radius: 10px;
 
 
+}
+.goa{
+    height: 300px;
+}
+.mumbai{
+    height: 300px;
 }
 .trending h3{
     font-weight: 600;
